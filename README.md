@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Python bot developer with a keen 
 
 ## 🌱 Currently Learning
 
-I'm always expanding my knowledge, and currently, I'm focused on improving my skills in [insert what you're learning].
+I'm always expanding my knowledge, and currently, I'm focused on improving my skills in [Java script, GO, php].
 
 ## 👀 Interests
 

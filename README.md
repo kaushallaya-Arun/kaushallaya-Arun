@@ -17,7 +17,7 @@ I'm open to collaboration on projects related to Python development, bot develop
 
 ## 📫 How to Reach Me
 
-- Telegram: [@kaushallaya](https://t.me/kaushallaya) And (https://t.me/DarkSathanHell)
+- Telegram: [@kaushallaya](https://t.me/kaushallaya)
 - Email: [arunbandara011@gmail.com](mailto:arunbandara011@gmail.com)
 
 Let's connect and create something awesome together! 🚀
